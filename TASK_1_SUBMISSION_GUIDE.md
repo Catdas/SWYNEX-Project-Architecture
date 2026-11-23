@@ -36,17 +36,17 @@ git branch -M main
 
 # 5. Create a new public repository on GitHub named:
 #    SWYNEX-Project-Architecture
-#    URL will look like: https://github.com/<YOUR_GITHUB_USERNAME>/SWYNEX-Project-Architecture.git
+#    URL will look like: https://github.com/Catdas/SWYNEX-Project-Architecture.git
 
-# 6. Link your local repo to GitHub (replace with your actual GitHub username):
-git remote add origin https://github.com/<YOUR_GITHUB_USERNAME>/SWYNEX-Project-Architecture.git
+# 6. Link your local repo to GitHub:
+git remote add origin https://github.com/Catdas/SWYNEX-Project-Architecture.git
 
 # 7. Push the code to GitHub:
 git push -u origin main
 ```
 
 Your **Task submission link** will be:
-`https://github.com/<YOUR_GITHUB_USERNAME>/SWYNEX-Project-Architecture`
+`https://github.com/Catdas/SWYNEX-Project-Architecture`
 
 ---
 
@@ -69,7 +69,7 @@ For this milestone, I planned and designed the full-stack architecture for "Task
 💡 This task gave me hands-on experience in high-level system design, decoupling business logic, and architecting production-grade software before writing code.
 
 Check out the full architecture document and starter repository here:
-👉 https://github.com/<YOUR_GITHUB_USERNAME>/SWYNEX-Project-Architecture
+👉 https://github.com/Catdas/SWYNEX-Project-Architecture
 
 A big thank you to @SWYNEX Technologies for this incredible learning opportunity!
 
@@ -106,7 +106,7 @@ You can record this video using **Loom**, **OBS Studio**, or your smartphone/web
 
 When submitting on the SWYNEX portal:
 1. **Task submission link \*:**
-   `https://github.com/<YOUR_GITHUB_USERNAME>/SWYNEX-Project-Architecture`
+   `https://github.com/Catdas/SWYNEX-Project-Architecture`
 2. **LinkedIn explanation post link \*:**
    `https://www.linkedin.com/posts/<YOUR_POST_ID>`
 3. Click **Submit task**!

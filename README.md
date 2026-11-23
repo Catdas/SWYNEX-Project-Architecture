@@ -137,7 +137,7 @@ Clone the repository and run all services (Database, Redis, API, and Frontend) i
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/SWYNEX-Project-Architecture.git
+git clone https://github.com/Catdas/SWYNEX-Project-Architecture.git
 cd SWYNEX-Project-Architecture
 
 # Start all containers

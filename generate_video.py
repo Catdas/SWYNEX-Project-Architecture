@@ -47,7 +47,7 @@ def draw_footer(draw, progress=0.0):
     draw.rectangle([(0, HEIGHT - 70), (WIDTH, HEIGHT)], fill=(13, 19, 33))
     draw.line([(0, HEIGHT - 70), (WIDTH, HEIGHT - 70)], fill=(30, 41, 59), width=1)
     
-    draw.text((70, HEIGHT - 48), "Intern: Tharun K.  |  Repository: github.com/Catdas/SWYNEX-Project-Architecture", fill=(148, 163, 184), font=font_small)
+    draw.text((70, HEIGHT - 48), "Intern: Tharun M.  |  Repository: github.com/Catdas/SWYNEX-Project-Architecture", fill=(148, 163, 184), font=font_small)
     draw.text((WIDTH - 420, HEIGHT - 48), "LinkedIn Submission Video Demo", fill=(56, 189, 248), font=font_small)
     
     # Progress bar line
@@ -310,7 +310,7 @@ def render_frame_scene6(t, duration):
     
     # Tags & Acknowledgements
     draw.text((280, 640), "Company: @SWYNEX Technologies", fill=(255, 255, 255), font=font_body)
-    draw.text((280, 690), "Internship Track: Full-Stack Web Development  •  Author: Tharun K.", fill=(203, 213, 225), font=font_small)
+    draw.text((280, 690), "Internship Track: Full-Stack Web Development  •  Author: Tharun M.", fill=(203, 213, 225), font=font_small)
     draw.text((280, 740), "#SWYNEX #Internship #SystemDesign #SoftwareEngineering #React #NodeJS #PostgreSQL", fill=(96, 165, 250), font=font_body)
     
     draw_footer(draw, progress=(34.0 + t) / 38.0)

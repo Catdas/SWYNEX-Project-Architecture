@@ -68,7 +68,7 @@ export const BoardPage: React.FC<BoardPageProps> = ({ tasks, setTasks }) => {
       priority: newPriority,
       points: 3,
       position: 0,
-      assignee: { name: 'Tharun K.', avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=60' },
+      assignee: { name: 'Tharun M.', avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=60' },
       dueDate: new Date(Date.now() + 86400000 * 7).toISOString(),
       commentsCount: 0
     };

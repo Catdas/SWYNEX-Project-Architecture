@@ -1,7 +1,7 @@
 # Software Architecture Specification: TaskFlow
 
 > **Project Name:** TaskFlow - Modern Agile Workflow & Task Management Platform  
-> **Author:** Tharun K. (SWYNEX Technologies Internship Program)  
+> **Author:** Tharun M. (SWYNEX Technologies Internship Program)  
 > **Document Version:** 1.0.0  
 > **Task:** Task 1 - Project Architecture  
 > **Date:** November 2026  

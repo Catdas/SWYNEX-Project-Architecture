@@ -85,7 +85,7 @@ You can record this video using **Loom**, **OBS Studio**, or your smartphone/web
 ### Video Script / Walkthrough:
 
 - **[0:00 - 0:15] Introduction:**
-  > *"Hello everyone! I'm Tharun, and today I'm presenting Task 1 of my internship at SWYNEX Technologies: Full-Stack Project Architecture."*
+  > *"Hello everyone! I'm Tharun M., and today I'm presenting Task 1 of my internship at SWYNEX Technologies: Full-Stack Project Architecture."*
 
 - **[0:15 - 0:35] Product Concept & Problem:**
   > *"I planned and architected **TaskFlow**, a collaborative agile project management platform designed to help development teams organize sprints, manage kanban task boards, and measure team velocity without tool fragmentation."*

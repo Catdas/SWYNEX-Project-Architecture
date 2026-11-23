@@ -11,7 +11,7 @@ let mockTasks = [
     priority: 'URGENT',
     points: 8,
     position: 0,
-    assignee: { name: 'Tharun K.', avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=60' },
+    assignee: { name: 'Tharun M.', avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=60' },
     dueDate: '2026-11-25T18:00:00Z',
     commentsCount: 4
   },
@@ -39,7 +39,7 @@ let mockTasks = [
     priority: 'HIGH',
     points: 5,
     position: 0,
-    assignee: { name: 'Tharun K.', avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=60' },
+    assignee: { name: 'Tharun M.', avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=60' },
     dueDate: '2026-12-01T18:00:00Z',
     commentsCount: 5
   },
@@ -109,7 +109,7 @@ export const createTask = async (req: Request, res: Response): Promise<void> => 
     priority: priority || 'MEDIUM',
     points: points || 3,
     position: 0,
-    assignee: { name: 'Tharun K.', avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=60' },
+    assignee: { name: 'Tharun M.', avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=60' },
     dueDate: dueDate || new Date(Date.now() + 86400000 * 7).toISOString(),
     commentsCount: 0
   };

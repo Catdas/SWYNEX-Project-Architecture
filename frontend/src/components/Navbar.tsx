@@ -43,7 +43,7 @@ export const Navbar: React.FC<NavbarProps> = ({ currentWorkspace }) => {
 
         <div className="flex items-center space-x-3 pl-2 border-l border-slate-800">
           <div className="text-right hidden md:block">
-            <p className="text-sm font-medium text-slate-200 leading-tight">Tharun K.</p>
+            <p className="text-sm font-medium text-slate-200 leading-tight">Tharun M.</p>
             <p className="text-xs text-blue-400">Lead Architect</p>
           </div>
           <div className="h-9 w-9 rounded-full bg-slate-800 border border-slate-700 flex items-center justify-center text-slate-300">

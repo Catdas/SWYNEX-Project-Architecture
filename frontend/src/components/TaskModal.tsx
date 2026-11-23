@@ -76,7 +76,7 @@ export const TaskModal: React.FC<TaskModalProps> = ({
               <div className="space-y-3">
                 <div className="p-3 rounded-lg bg-slate-950/40 border border-slate-800 text-xs">
                   <div className="flex items-center justify-between text-slate-400 mb-1">
-                    <span className="font-semibold text-slate-200">Tharun K. (Lead Architect)</span>
+                    <span className="font-semibold text-slate-200">Tharun M. (Lead Architect)</span>
                     <span>2 hours ago</span>
                   </div>
                   <p className="text-slate-300">

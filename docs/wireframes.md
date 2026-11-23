@@ -125,14 +125,14 @@
 | DESCRIPTION:                               | DETAILS                    |
 | Build smooth Kanban column drag & drop     | Status:    [IN PROGRESS v] |
 | using DnD Kit with optimistic UI updates.  | Priority:  [HIGH v]        |
-|                                            | Assignee:  [Tharun K.    ] |
+|                                            | Assignee:  [Tharun M.    ] |
 | CHECKLIST:                                 | Reporter:  [Tech Lead    ] |
 | [x] Column layout and card component       | Estimate:  [ 5 Story Pts ] |
 | [x] Drag events and optimistic re-order    | Due Date:  [ Dec 05, 2026] |
 | [ ] Persist position to backend PATCH API  |                            |
 |                                            | PROJECT                    |
 | ACTIVITY & COMMENTS:                       | SWYNEX Web Platform        |
-| - Tharun K. moved status to IN PROGRESS    |                            |
+| - Tharun M. moved status to IN PROGRESS    |                            |
 | - Sarah L.: "Added the API payload spec!"  | [ Delete Task ]            |
 |                                            |                            |
 | [ Write a comment... (Markdown supported) ]|                            |

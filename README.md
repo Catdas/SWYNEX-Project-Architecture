@@ -9,7 +9,7 @@
 > **Task 1 Submission: Full-Stack Application Architecture**  
 > **Internship Track:** Full-Stack Web Development / Software Engineering  
 > **Company:** SWYNEX Technologies  
-> **Author:** Tharun K.  
+> **Author:** Tharun M.  
 
 ---
 

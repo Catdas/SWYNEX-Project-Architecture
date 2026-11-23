@@ -10,7 +10,7 @@ const mockProjects = [
     status: 'ACTIVE',
     totalTasks: 24,
     completedTasks: 18,
-    lead: { fullName: 'Tharun K.', email: 'lead@swynex.tech' }
+    lead: { fullName: 'Tharun M.', email: 'lead@swynex.tech' }
   },
   {
     id: 'proj_infra_cloud',

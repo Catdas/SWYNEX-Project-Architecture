@@ -14,7 +14,7 @@ export const initialTasks: Task[] = [
     priority: 'URGENT',
     points: 8,
     position: 0,
-    assignee: { name: 'Tharun K.', avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=60' },
+    assignee: { name: 'Tharun M.', avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=60' },
     dueDate: '2026-11-25T18:00:00Z',
     commentsCount: 4
   },
@@ -42,7 +42,7 @@ export const initialTasks: Task[] = [
     priority: 'HIGH',
     points: 5,
     position: 0,
-    assignee: { name: 'Tharun K.', avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=60' },
+    assignee: { name: 'Tharun M.', avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=60' },
     dueDate: '2026-12-01T18:00:00Z',
     commentsCount: 5
   },
@@ -86,7 +86,7 @@ export const initialProjects: Project[] = [
     status: 'ACTIVE',
     totalTasks: 24,
     completedTasks: 18,
-    lead: { fullName: 'Tharun K.', email: 'lead@swynex.tech' }
+    lead: { fullName: 'Tharun M.', email: 'lead@swynex.tech' }
   },
   {
     id: 'proj_infra_cloud',

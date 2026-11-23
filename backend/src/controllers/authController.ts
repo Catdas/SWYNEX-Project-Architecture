@@ -66,7 +66,7 @@ export const login = async (req: Request, res: Response): Promise<void> => {
     const mockUser = {
       id: 'usr_7890abcd',
       email,
-      fullName: 'Tharun K.',
+      fullName: 'Tharun M.',
       avatarUrl: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100',
       role: 'ADMIN'
     };
@@ -93,7 +93,7 @@ export const getMe = async (req: Request, res: Response): Promise<void> => {
     data: {
       id: 'usr_7890abcd',
       email: 'engineer@swynex.tech',
-      fullName: 'Tharun K.',
+      fullName: 'Tharun M.',
       role: 'ADMIN',
       avatarUrl: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100'
     }

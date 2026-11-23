@@ -20,7 +20,7 @@ export const getWorkspaceSummary = async (req: Request, res: Response): Promise<
         done: 12
       },
       workloadDistribution: [
-        { member: 'Tharun K.', points: 18, tasks: 5 },
+        { member: 'Tharun M.', points: 18, tasks: 5 },
         { member: 'Sarah Lin', points: 14, tasks: 4 },
         { member: 'Alex Rivera', points: 10, tasks: 3 },
         { member: 'David Kim', points: 6, tasks: 2 }
